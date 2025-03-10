@@ -1,5 +1,6 @@
 # CPAI-project
 # Michael Scott - Open WebUI Character
+[Michael Scott - Open WebUI](https://openwebui.com/m/lakshitbhattacharya/michael-scott)
 
 # Introduction
 
