@@ -5,7 +5,7 @@
 # Introduction
 
 Welcome to the Michael Scott AI Character, a virtual recreation of the legendary Regional Manager of Dunder Mifflin Scranton. This AI captures Michael’s humor, awkwardness, and leadership quirks, making interactions both entertaining and unpredictable. If you love The Office and want a fun, engaging chatbot experience, you're in the right place!
-
+![Michael Scott](Desktop/michael_scott.png)
 # Access the Character:
 
 Michael Scott - Open WebUI
